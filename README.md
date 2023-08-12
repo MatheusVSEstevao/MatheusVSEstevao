@@ -2,8 +2,6 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=MatheusVSEstevao&show_icons=true&theme=tokyonight&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVSEstevao&layout=compact&theme=tokyonight&bg_color=00000000)](https://github.com/MatheusVSEstevao/github-readme-stats)
-*//*
 ##
 
 
